@@ -1,0 +1,9 @@
+.SearchBox{
+    text-align: center;
+    align-self: center;
+}
+
+.FormSet{
+    display: flex;
+    justify-content: center;
+}

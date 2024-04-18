@@ -1,0 +1,68 @@
+.InfoBox{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.top{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.imgStyle{
+    width : 100px; 
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.temp{
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+.weather{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.tempVal{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    margin: 20px;
+    font-size: 1.3rem;
+    align-items: center;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconStyle{
+    font-size: 40px;
+    margin: 20px;
+}
+
+.cityInfo{
+    margin-top:30px !important;
+   font-size: 2.4rem !important;
+   color: #009ad8;
+}
+
+.Line{
+    width: 24%;
+}
